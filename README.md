@@ -131,18 +131,19 @@ DIVIDE([Late Orders],[Total Orders],0)
 
 ---
 
-## Dashboard Screenshots
+# Dashboard Screenshots
 
-### Executive Overview
-![Executive Overview](Screenshots/Executive_Overview.png)
+## Executive Overview
 
-### Product Analysis
-![Product Analysis](Screenshots/Product_Analysis.png)
+![Executive Overview](Screenshots/executive-overview.png)
 
-### Logistics Analysis
-![Logistics Analysis](Screenshots/Logistics_Analysis.png)
+## Product Analysis
 
----
+![Product Analysis](Screenshots/product-analysis.png)
+
+## Logistic Analysis
+
+![Logistic Analysis](Screenshots/logistic-analysis.png)
 
 ## Recommendations
 
