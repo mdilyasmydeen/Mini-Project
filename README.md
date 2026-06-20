@@ -177,4 +177,4 @@ This project successfully transformed raw supply chain data into actionable busi
 
 Aspiring Data Analyst | Excel | Power BI | Data Analytics | Generative AI
 
-📧 LinkedIn Profile: Add Your LinkedIn URL Here
+📧 LinkedIn Profile: https://www.linkedin.com/in/mohamed-ilyas-mydeen-a-b007b1411/
