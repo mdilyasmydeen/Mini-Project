@@ -88,7 +88,7 @@ Performed analysis on:
 
 ## DAX Measures
 
-```DAX
+DAX
 Total Sales =
 SUM('Supply Chain'[Sales])
 
@@ -109,7 +109,7 @@ CALCULATE(
 
 Late Delivery % =
 DIVIDE([Late Orders],[Total Orders],0)
-```
+
 
 ## Key Insights
 
@@ -174,7 +174,5 @@ This project successfully transformed raw supply chain data into actionable busi
 ## Author
 
 **Mohamed Ilyas Mydeen A**
-
-Aspiring Data Analyst | Excel | Power BI | Data Analytics | Generative AI
 
 📧 LinkedIn Profile: https://www.linkedin.com/in/mohamed-ilyas-mydeen-a-b007b1411/
